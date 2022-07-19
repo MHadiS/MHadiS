@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mohammad Hadi Shakibazad
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Machine Learning Algorithms
 - 📫 To reach me send me a email
-<!-- - 💞️ I’m looking to collaborate on with a back-end developer -->
+<!-- - 💞️ I’m looking to collaborate on with a ... developer -->
 
 <!---
 MHadiS/MHadiS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
