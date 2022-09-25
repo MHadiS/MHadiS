@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Hadi Shakibazad
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning Algorithms
+- 👀 I’m interested in Back-end
+- 🌱 I’m currently learning Back-end
 - 📫 To reach me send me a email
 <!-- - 💞️ I’m looking to collaborate on with a ... developer -->
 
